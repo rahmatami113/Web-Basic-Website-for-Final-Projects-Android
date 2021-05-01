@@ -1,0 +1,51 @@
+/*background index*/
+#background{
+    margin-top:-120px;
+    background:url(../../assets/img/sk3.jpeg) no-repeat;
+    background-size:cover;
+    padding-top:180px;
+    height:480px;
+    max-height:1112px;
+  }  
+#background .jumbotron{
+  color: black;
+  }
+/*background index*/
+
+a{
+  text-decoration: none;
+  color: black;
+  }
+.table{
+  background-color: rgb(74, 184, 221);
+}
+.contact{
+  background-color: lightblue;
+ }
+.card{
+  border-radius: 20px;
+  box-shadow: 3px 2px 2px grey;
+}
+.card img{
+  width: 300px;
+  height: 260px;
+  margin-left: 150px;
+}
+.card-body{
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+/* border line judul  */
+#border-judul {
+  border-bottom: 8px solid lightblue;
+  width: 25%;
+  margin: auto;
+  padding-bottom: 5px;
+
+  }
+
+/*footer */
+.foot{
+  background-color:  rgb(74, 184, 221);
+}
