@@ -7,8 +7,9 @@ class Web Basic: Website for Final Projects Android
 <table>
   <tr><td><strong>SKETCHME</strong></td></tr>
   <tr>
-    <td><p align="center"><img src="/docs/ios_screenshot.jpeg" height="500"></p></td>
-    <td><p align="center"><img src="/docs/android_screenshot.jpg" height="500"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-SketchME.png"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-L W-SketchME.png"></p></td
+    <td><p align="center"><img src="/Pictures/Screenshot-about-SketchME.png"></p></td>
   </tr>
 </table>
 
